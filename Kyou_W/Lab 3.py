@@ -1,4 +1,3 @@
-
 Monthly_Salary = float(input("Enter the Monthly Salary: "))
 
 if Monthly_Salary >= 30000:
